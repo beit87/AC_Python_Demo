@@ -4,7 +4,7 @@ Un insieme di wrapper Python progettati per semplificare attività di Machine Le
 Include esempi completi, report generati automaticamente e notebook dimostrativi.
 
 
-*** CARATTERISTICHE PRINCIPALI ***
+> CARATTERISTICHE PRINCIPALI
 
 UniversalClassifier — wrapper unificato per classificazione
 Supporta Decision Tree, Random Forest, SVM, Dummy, con:
@@ -29,15 +29,14 @@ Report — generatore di report PDF da DataFrame
 Ideale per pipeline di analisi automatizzate.
 
 
-*** NOTEBOOK DIMOSTRATIVI E DOCUMENTI ***
+> NOTEBOOK DIMOSTRATIVI E DOCUMENTI
 
     - demo_classification.ipynb: dimostra l’uso del classificatore universale, la ricerca degli iperparametri e la generazione di report.
     - demo_clustering.ipynb: esempio completo di clustering su dati reali (tweet della Presidenza USA).
     - PDF già generati nella cartella reports/pdf
 
 
-*** STRUTTURA DEL REPOSITORY ***
-Code
+> STRUTTURA DEL REPOSITORY
     
     AC_Python_Demo/
     │
@@ -57,7 +56,7 @@ Code
     └── README.md
 
 
-*** ESEMPI RAPIDI ***
+> ESEMPI RAPIDI 
 
 Classificazione
     
@@ -80,7 +79,7 @@ Classificazione
     print("Prediction:", uc.predict([80, 1.0, 3.0]))
     uc.draw("confusion", set="test", show=True)
 
-> Clustering
+Clustering
 
     from ac.ml.clustering import ClusterMaker
     import pandas as pd
@@ -110,7 +109,7 @@ Il modulo Report consente di generare PDF direttamente da DataFrame:
     report.dump("output", extension=".pdf")
 
 
-*** REQUISITI ***
+> REQUISITI
 
 - Python 3.10+
 - Scikit‑Learn
@@ -118,7 +117,7 @@ Il modulo Report consente di generare PDF direttamente da DataFrame:
 - Matplotlib, Seaborn, Pandas, NumPy
 
 
-*** AUTORE ***
+> AUTORE
 
 Alessio Cioli  
 Docente, sviluppatore Python e studente di Data Science & AI presso Università di Pisa
