@@ -1,0 +1,500 @@
+Rank,Name,Wealth,Country,Sector,Region,Mapped_Region,Mapped_Country,Mapped_Sector
+1,Elon Musk,651.0,United States,Technology,Northern America,1.0,1.0,1.0
+2,Larry Page,255.0,United States,Technology,Northern America,1.0,1.0,1.0
+3,Sergey Brin,237.0,United States,Technology,Northern America,1.0,1.0,1.0
+4,Jeff Bezos,233.0,United States,Technology,Northern America,1.0,1.0,1.0
+5,Mark Zuckerberg,205.0,United States,Technology,Northern America,1.0,1.0,1.0
+6,Larry Ellison,194.0,United States,Technology,Northern America,1.0,1.0,1.0
+7,Bernard Arnault,156.0,France,Consumer,Europe,3.0,8.0,5.0
+8,Jim Walton,147.0,United States,Retail,Northern America,1.0,1.0,7.0
+9,Michael Dell,146.0,United States,Technology,Northern America,1.0,1.0,1.0
+10,Jensen Huang,146.0,United States,Technology,Northern America,1.0,1.0,1.0
+11,Rob Walton,144.0,United States,Retail,Northern America,1.0,1.0,7.0
+12,Alice Walton,143.0,United States,Retail,Northern America,1.0,1.0,7.0
+13,Warren Buffett,142.0,United States,Diversified,Northern America,1.0,1.0,4.0
+14,Steve Ballmer,132.0,United States,Technology,Northern America,1.0,1.0,1.0
+15,Carlos Slim,127.0,Mexico,Diversified,Southern America,4.0,22.0,4.0
+16,Amancio Ortega,123.0,Spain,Retail,Europe,3.0,21.0,7.0
+17,Bill Gates,101.0,United States,Technology,Northern America,1.0,1.0,1.0
+18,Mukesh Ambani,90.6,India,Energy,Asia,2.0,3.0,8.0
+19,Francoise Bettencourt Meyers,88.7,France,Consumer,Europe,3.0,8.0,5.0
+20,Thomas Peterffy,80.4,United States,Finance,Northern America,1.0,1.0,2.0
+21,Jeff Yass,79.3,United States,Finance,Northern America,1.0,1.0,2.0
+22,Julia Flesher Koch & family,77.2,United States,Industrial,Northern America,1.0,1.0,3.0
+23,Gautam Adani,74.1,India,Industrial,Asia,2.0,3.0,3.0
+24,Charles Koch,69.2,United States,Industrial,Northern America,1.0,1.0,3.0
+25,Zhong Shanshan,69.2,China,Diversified,Asia,2.0,2.0,4.0
+26,German Larrea,66.9,Mexico,Commodities,Southern America,4.0,22.0,12.0
+27,Zhang Yiming,65.2,China,Technology,Asia,2.0,2.0,1.0
+28,Zeng Yuqun,62.9,Hong Kong,Industrial,Asia,2.0,6.0,3.0
+29,Giovanni Ferrero & family,62.2,Italy,Food & Beverage,Europe,3.0,15.0,10.0
+30,Tadashi Yanai,58.9,Japan,Retail,Asia,2.0,24.0,7.0
+31,Ma Huateng,55.7,China,Technology,Asia,2.0,2.0,1.0
+32,Jacqueline Badger Mars,52.8,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+33,John Mars,52.8,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+34,Iris Fontbona & family,50.9,Chile,Commodities,Southern America,4.0,37.0,12.0
+35,Lukas Walton,50.3,United States,Retail,Northern America,1.0,1.0,7.0
+36,Eric Schmidt,50.2,United States,Technology,Northern America,1.0,1.0,1.0
+37,Robert Pera,48.7,United States,Technology,Northern America,1.0,1.0,1.0
+38,Ken Griffin,48.3,United States,Finance,Northern America,1.0,1.0,2.0
+39,Zhang Bo,46.1,China,Industrial,Asia,2.0,2.0,3.0
+40,David Sun,46.1,United States,Technology,Northern America,1.0,1.0,1.0
+41,John Tu,46.1,United States,Technology,Northern America,1.0,1.0,1.0
+42,Dieter Schwarz,44.0,Germany,Retail,Europe,3.0,4.0,7.0
+43,Stephen Schwarzman,43.3,United States,Finance,Northern America,1.0,1.0,2.0
+44,Klaus-Michael Kuehne,41.9,Germany,Industrial,Europe,3.0,4.0,3.0
+45,Miriam Adelson,41.6,United States,Entertainment,Northern America,1.0,1.0,14.0
+46,Gina Rinehart,41.2,Australia,Commodities,Oceania,6.0,14.0,12.0
+47,Li Ka-shing,41.0,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+48,Jack Ma,40.8,China,Technology,Asia,2.0,2.0,1.0
+49,Thomas Frist,40.8,United States,Health Care,Northern America,1.0,1.0,6.0
+50,Rodolphe Saade & family,40.5,France,Services,Europe,3.0,8.0,13.0
+51,Abigail Johnson,40.0,United States,Finance,Northern America,1.0,1.0,2.0
+52,Len Blavatnik,39.4,United States,Diversified,Northern America,1.0,1.0,4.0
+53,He Xiangjian,37.9,China,Consumer,Asia,2.0,2.0,5.0
+54,MacKenzie Scott,37.8,United States,Technology,Northern America,1.0,1.0,1.0
+55,Gianluigi Aponte,36.9,Switzerland,Services,Europe,3.0,11.0,13.0
+56,William Ding,36.9,China,Technology,Asia,2.0,2.0,1.0
+57,Alain Wertheimer,36.6,France,Consumer,Europe,3.0,8.0,5.0
+58,Gerard Wertheimer,36.5,France,Consumer,Europe,3.0,8.0,5.0
+59,Zhang Xuexin,36.4,China,Industrial,Asia,2.0,2.0,3.0
+60,Colin Huang,35.9,China,Technology,Asia,2.0,2.0,1.0
+61,Ernesto Bertarelli & family,34.3,Switzerland,Diversified,Europe,3.0,11.0,4.0
+62,Jaime Gilinski,33.5,Colombia,Finance,Southern America,4.0,23.0,2.0
+63,Lakshmi Mittal,33.4,India,Commodities,Asia,2.0,3.0,12.0
+64,Aliko Dangote,32.5,Nigeria,Industrial,Africa,7.0,30.0,3.0
+65,Eduardo Saverin,31.5,Brazil,Technology,Southern America,4.0,10.0,1.0
+66,Idan Ofer,30.9,Israel,Energy,Middle East,5.0,17.0,8.0
+67,Eyal Ofer,30.9,Monaco,Diversified,Europe,3.0,31.0,4.0
+68,Shiv Nadar,30.8,India,Technology,Asia,2.0,3.0,1.0
+69,Changpeng Zhao,30.6,Canada,Finance,Northern America,1.0,9.0,2.0
+70,Dan Gilbert,30.3,United States,Real Estate,Northern America,1.0,1.0,9.0
+71,Shapoor Mistry,30.2,India,Industrial,Asia,2.0,3.0,3.0
+72,Susanne Klatten,29.8,Germany,Industrial,Europe,3.0,4.0,3.0
+73,Masayoshi Son,29.8,Japan,Technology,Asia,2.0,24.0,1.0
+74,Henry Samueli,29.4,United States,Technology,Northern America,1.0,1.0,1.0
+75,Savitri Jindal,29.3,India,Commodities,Asia,2.0,3.0,12.0
+76,Mark Mateschitz,29.2,Austria,Food & Beverage,Europe,3.0,38.0,10.0
+77,Huang Shilin,28.9,China,Industrial,Asia,2.0,2.0,3.0
+78,Andrew Forrest,28.4,Australia,Commodities,Oceania,6.0,14.0,12.0
+79,Andy Bechtolsheim,28.3,Germany,Technology,Europe,3.0,4.0,1.0
+80,Michal Strnad,28.2,Czech Republic,Industrial,Europe,3.0,25.0,3.0
+81,Jorge Paulo Lemann,27.9,Brazil,Food & Beverage,Southern America,4.0,10.0,10.0
+82,Lei Jun,27.6,China,Technology,Asia,2.0,2.0,1.0
+83,Liu Yongxing,27.4,China,Industrial,Asia,2.0,2.0,3.0
+84,Stan Kroenke,26.8,United States,Real Estate,Northern America,1.0,1.0,9.0
+85,Andrey Melnichenko,26.5,Russian Federation,Industrial,Europe,3.0,5.0,3.0
+86,Vicky Safra,26.1,Greece,Finance,Europe,3.0,34.0,2.0
+87,Izzy Englander,26.0,United States,Finance,Northern America,1.0,1.0,2.0
+88,Leonid Mikhelson,25.9,Russian Federation,Energy,Europe,3.0,5.0,8.0
+89,Elaine Marshall,25.9,United States,Industrial,Northern America,1.0,1.0,3.0
+90,Lyndal Stephens Greth,25.8,United States,Energy,Northern America,1.0,1.0,8.0
+91,Vladimir Potanin,25.7,Russian Federation,Commodities,Europe,3.0,5.0,12.0
+92,Pham Nhat Vuong,25.7,Viet Nam,Real Estate,Asia,2.0,39.0,9.0
+93,Alexey Mordashov,25.6,Russian Federation,Industrial,Europe,3.0,5.0,3.0
+94,Henry Cheng,25.5,Hong Kong,Retail,Asia,2.0,6.0,7.0
+95,Wang Chuan-Fu,25.2,China,Consumer,Asia,2.0,2.0,5.0
+96,Stefan Quandt,25.0,Germany,Industrial,Europe,3.0,4.0,3.0
+97,Prajogo Pangestu,24.7,Indonesia,Energy,Asia,2.0,13.0,8.0
+98,Richard Cohen & family,24.5,United States,Consumer,Northern America,1.0,1.0,5.0
+99,Phil Knight & family,24.5,United States,Consumer,Northern America,1.0,1.0,5.0
+100,Philip Anschutz,24.4,United States,Diversified,Northern America,1.0,1.0,4.0
+101,Vagit Alekperov,24.3,Russian Federation,Energy,Europe,3.0,5.0,8.0
+102,Dilip Shanghvi,24.2,India,Health Care,Asia,2.0,3.0,6.0
+103,Stefan Persson,23.9,Sweden,Retail,Europe,3.0,16.0,7.0
+104,Sunil Mittal,23.8,India,Media & Telecom,Asia,2.0,3.0,11.0
+105,Vladimir Lisin,23.7,Russian Federation,Industrial,Europe,3.0,5.0,3.0
+106,Christy Walton,23.6,United States,Retail,Northern America,1.0,1.0,7.0
+107,Sukanto Tanoto,23.6,Indonesia,Commodities,Asia,2.0,13.0,12.0
+108,David Tepper,23.0,United States,Finance,Northern America,1.0,1.0,2.0
+109,Peter Thiel,22.9,United States,Finance,Northern America,1.0,1.0,2.0
+110,Takemitsu Takizaki,22.9,Japan,Technology,Asia,2.0,24.0,1.0
+111,Jay Y. Lee,22.6,"Korea, Republic of",Diversified,Asia,2.0,19.0,4.0
+112,Hasso Plattner,22.4,Germany,Technology,Europe,3.0,4.0,1.0
+113,Zhang Zhidong,22.2,China,Technology,Asia,2.0,2.0,1.0
+114,Robert Kuok,21.9,Malaysia,Diversified,Asia,2.0,41.0,4.0
+115,Arthur Dantchik,21.8,United States,Finance,Northern America,1.0,1.0,2.0
+116,Zhong Huijuan,21.7,China,Health Care,Asia,2.0,2.0,6.0
+117,Paolo Rocca & family,21.3,Italy,Commodities,Europe,3.0,15.0,12.0
+118,Ernie Garcia,21.1,United States,Consumer,Northern America,1.0,1.0,5.0
+119,Harry Triguboff,21.1,Australia,Real Estate,Oceania,6.0,14.0,9.0
+120,Galen G Weston,20.8,Canada,Retail,Northern America,1.0,9.0,7.0
+121,Azim Premji,20.6,India,Technology,Asia,2.0,3.0,1.0
+122,Charles Butt & family,20.5,United States,Retail,Northern America,1.0,1.0,7.0
+123,Kumar Birla,20.2,India,Industrial,Asia,2.0,3.0,3.0
+124,Alwaleed Bin Talal,20.0,Saudi Arabia,Diversified,Middle East,5.0,29.0,4.0
+125,Jan Koum,20.0,United States,Technology,Northern America,1.0,1.0,1.0
+126,Qin Yinglin,20.0,China,Food & Beverage,Asia,2.0,2.0,10.0
+127,Andrea Pignataro,19.1,Italy,Finance,Europe,3.0,15.0,2.0
+128,John Menard,18.9,United States,Retail,Northern America,1.0,1.0,7.0
+129,Charles Ergen,18.9,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+130,Jerry Jones,18.8,United States,Entertainment,Northern America,1.0,1.0,14.0
+131,Ray Dalio,18.8,United States,Finance,Northern America,1.0,1.0,2.0
+132,Dang Yanbao,18.8,China,Energy,Asia,2.0,2.0,8.0
+133,Yu Yong,18.7,China,Finance,Asia,2.0,2.0,2.0
+134,Donald Newhouse,18.6,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+135,Jim Ratcliffe,18.5,United Kingdom,Industrial,Europe,3.0,7.0,3.0
+136,Chen Tianshi,18.4,China,Technology,Asia,2.0,2.0,1.0
+137,Ludwig Merckle,18.4,Germany,Industrial,Europe,3.0,4.0,3.0
+138,Harold Hamm,18.4,United States,Energy,Northern America,1.0,1.0,8.0
+139,Rupert Murdoch & family,18.3,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+140,Francois Pinault,18.3,France,Consumer,Europe,3.0,8.0,5.0
+141,Torstein Hagen,18.2,Norway,Services,Europe,3.0,18.0,13.0
+142,Alisher Usmanov,18.1,Russian Federation,Diversified,Europe,3.0,5.0,4.0
+143,Micky Arison,18.1,United States,Entertainment,Northern America,1.0,1.0,14.0
+144,Raymond Kwok,18.0,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+145,Xavier Niel,17.8,France,Technology,Europe,3.0,8.0,1.0
+146,Renata Kellnerova,17.8,Czech Republic,Diversified,Europe,3.0,25.0,4.0
+147,Radhakishan Damani,17.7,India,Retail,Asia,2.0,3.0,7.0
+148,Anthony Bamford & family,17.5,United Kingdom,Industrial,Europe,3.0,7.0,3.0
+149,Nancy Laurie,17.5,United States,Retail,Northern America,1.0,1.0,7.0
+150,Donald Bren,17.5,United States,Real Estate,Northern America,1.0,1.0,9.0
+151,Alejandro Santo Domingo & family,17.5,Colombia,Food & Beverage,Southern America,4.0,23.0,10.0
+152,Steve Cohen,17.4,United States,Finance,Northern America,1.0,1.0,2.0
+153,Tom Gores,17.4,United States,Finance,Northern America,1.0,1.0,2.0
+154,Melinda French Gates,17.4,United States,Diversified,Northern America,1.0,1.0,4.0
+155,Sarath Ratanavadi,17.4,Thailand,Energy,Asia,2.0,27.0,8.0
+156,Lv Xiang-yang,17.2,China,Consumer,Asia,2.0,2.0,5.0
+157,Thomas Kwok,17.0,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+158,Johann Rupert & family,16.9,South Africa,Diversified,Africa,7.0,26.0,4.0
+159,John Fredriksen,16.9,Cyprus,Industrial,Europe,3.0,40.0,3.0
+160,Charlene de Carvalho-Heineken,16.8,Netherlands,Food & Beverage,Europe,3.0,35.0,10.0
+161,Liang Wenfeng,16.6,China,Technology,Asia,2.0,2.0,1.0
+162,Pei Zhenhua,16.6,China,Industrial,Asia,2.0,2.0,3.0
+163,Reinhold Wuerth,16.5,Germany,Industrial,Europe,3.0,4.0,3.0
+164,Diane Hendricks,16.4,United States,Services,Northern America,1.0,1.0,13.0
+165,Jeffery Hildebrand,16.3,United States,Energy,Northern America,1.0,1.0,8.0
+166,Low Tuck Kwong,16.2,Indonesia,Energy,Asia,2.0,13.0,8.0
+167,Ann Kroenke,16.1,United States,Retail,Northern America,1.0,1.0,7.0
+168,Enrique Razon,16.1,Philippines,Services,Asia,2.0,43.0,13.0
+169,Charles Schwab,16.0,United States,Finance,Northern America,1.0,1.0,2.0
+170,Ralph Lauren,16.0,United States,Consumer,Northern America,1.0,1.0,5.0
+171,Gennady Timchenko,16.0,Russian Federation,Diversified,Europe,3.0,5.0,4.0
+172,George Roberts,15.8,United States,Finance,Northern America,1.0,1.0,2.0
+173,Leon Black,15.8,United States,Finance,Northern America,1.0,1.0,2.0
+174,Henry Kravis,15.7,United States,Finance,Northern America,1.0,1.0,2.0
+175,Peter Woo,15.7,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+176,Andy Beal,15.6,United States,Finance,Northern America,1.0,1.0,2.0
+177,Brad Jacobs,15.6,United States,Services,Northern America,1.0,1.0,13.0
+178,James Dyson,15.6,United Kingdom,Consumer,Europe,3.0,7.0,5.0
+179,Sherry Brydson,15.5,Canada,Media & Telecom,Northern America,1.0,9.0,11.0
+180,Stephen Ross,15.5,United States,Real Estate,Northern America,1.0,1.0,9.0
+181,Sammy Lee,15.5,Hong Kong,Consumer,Asia,2.0,6.0,5.0
+182,Li Shu Fu,15.4,China,Industrial,Asia,2.0,2.0,3.0
+183,Budi Hartono,15.4,Indonesia,Diversified,Asia,2.0,13.0,4.0
+184,Karl Albrecht Jr,15.4,Germany,Retail,Europe,3.0,4.0,7.0
+185,Beate Heister,15.4,Germany,Retail,Europe,3.0,4.0,7.0
+186,Alex Karp,15.2,United States,Technology,Northern America,1.0,1.0,1.0
+187,Martin Viessmann & family,15.2,Germany,Industrial,Europe,3.0,4.0,3.0
+188,Giancarlo Devasini,15.2,Italy,Finance,Europe,3.0,15.0,2.0
+189,Natie Kirsh,15.0,South Africa,Food & Beverage,Africa,7.0,26.0,10.0
+190,Richard Kinder,15.0,United States,Energy,Northern America,1.0,1.0,8.0
+191,Patrick Soon-Shiong,14.9,United States,Health Care,Northern America,1.0,1.0,6.0
+192,Bob Duggan,14.9,United States,Health Care,Northern America,1.0,1.0,6.0
+193,Yat-Gai Au,14.8,Hong Kong,Health Care,Asia,2.0,6.0,6.0
+194,Wang Weixiu,14.8,China,Technology,Asia,2.0,2.0,1.0
+195,Mike Sabel,14.6,United States,Commodities,Northern America,1.0,1.0,12.0
+196,Bob Pender,14.6,United States,Commodities,Northern America,1.0,1.0,12.0
+197,Adam Foroughi,14.5,United States,Technology,Northern America,1.0,1.0,1.0
+198,Barry Lam,14.5,Taiwan,Technology,Asia,2.0,12.0,1.0
+199,Zou Zhinong & family,14.4,China,Technology,Asia,2.0,2.0,1.0
+200,Sandra Ortega Mera,14.4,Spain,Retail,Europe,3.0,21.0,7.0
+201,Zhou Qunfei,14.4,China,Technology,Asia,2.0,2.0,1.0
+202,Abdulsamad Rabiu,14.3,Nigeria,Industrial,Africa,7.0,30.0,3.0
+203,Terry Pegula,14.2,United States,Energy,Northern America,1.0,1.0,8.0
+204,Nik Storonsky,14.2,United Kingdom,Finance,Europe,3.0,7.0,2.0
+205,Anthoni Salim,14.2,Indonesia,Diversified,Asia,2.0,13.0,4.0
+206,Francis Lui,14.2,Hong Kong,Diversified,Asia,2.0,6.0,4.0
+207,Thomas Struengmann,14.2,Germany,Health Care,Europe,3.0,4.0,6.0
+208,Andreas Struengmann,14.2,Germany,Health Care,Europe,3.0,4.0,6.0
+209,David Velez,14.2,Colombia,Finance,Southern America,4.0,23.0,2.0
+210,Wang Liping,14.0,China,Industrial,Asia,2.0,2.0,3.0
+211,Andre Esteves,14.0,Brazil,Finance,Southern America,4.0,10.0,2.0
+212,Pierre Omidyar,13.9,United States,Technology,Northern America,1.0,1.0,1.0
+213,Sun Piaoyang,13.8,China,Health Care,Asia,2.0,2.0,6.0
+214,Zhu Yi,13.6,China,Health Care,Asia,2.0,2.0,6.0
+215,Martin Lee,13.5,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+216,Peter Lee,13.5,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+217,Alejandro Bailleres,13.4,Mexico,Commodities,Southern America,4.0,22.0,12.0
+218,Ned Johnson IV,13.3,United States,Finance,Northern America,1.0,1.0,2.0
+219,Hussain Sajwani,13.3,United Arab Emirates,Real Estate,Middle East,5.0,33.0,9.0
+220,Elizabeth Johnson,13.3,United States,Finance,Northern America,1.0,1.0,2.0
+221,Antonia Axson Johnson,13.3,Sweden,Industrial,Europe,3.0,16.0,3.0
+222,John Doerr,13.2,United States,Finance,Northern America,1.0,1.0,2.0
+223,Nicky Oppenheimer,13.2,South Africa,Diversified,Africa,7.0,26.0,4.0
+224,Ivan Glasenberg,13.2,Switzerland,Commodities,Europe,3.0,11.0,12.0
+225,Tilman Fertitta,13.2,United States,Entertainment,Northern America,1.0,1.0,14.0
+226,David Shaw,13.2,United States,Finance,Northern America,1.0,1.0,2.0
+227,Marijke Mars,13.2,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+228,Victoria Mars,13.2,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+229,Pamela Mars-Wright,13.2,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+230,Valerie Mars,13.2,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+231,Ralph Sonnenberg,13.1,Netherlands,Consumer,Europe,3.0,35.0,5.0
+232,Cyrus Poonawalla,13.1,India,Health Care,Asia,2.0,3.0,6.0
+233,Uday Kotak,13.0,India,Finance,Asia,2.0,3.0,2.0
+234,Jason Chang,13.0,Singapore,Technology,Asia,2.0,28.0,1.0
+235,Leo Koguan,13.0,United States,Technology,Northern America,1.0,1.0,1.0
+236,Randa Williams,12.9,United States,Energy,Northern America,1.0,1.0,8.0
+237,Chris Larsen,12.9,United States,Technology,Northern America,1.0,1.0,1.0
+238,Dannine Avara,12.9,United States,Energy,Northern America,1.0,1.0,8.0
+239,Scott Duncan,12.9,United States,Energy,Northern America,1.0,1.0,8.0
+240,Milane Frantz,12.9,United States,Energy,Northern America,1.0,1.0,8.0
+241,Gong Hongjia,12.8,China,Technology,Asia,2.0,2.0,1.0
+242,Robert Kraft,12.8,United States,Entertainment,Northern America,1.0,1.0,14.0
+243,Simon Reuben,12.8,United Kingdom,Diversified,Europe,3.0,7.0,4.0
+244,David Reuben,12.8,United Kingdom,Diversified,Europe,3.0,7.0,4.0
+245,Prince Hans-Adam II,12.7,Liechtenstein,Finance,Europe,3.0,42.0,2.0
+246,Dietmar Hopp,12.7,Germany,Technology,Europe,3.0,4.0,1.0
+247,Hugh Grosvenor,12.6,United Kingdom,Real Estate,Europe,3.0,7.0,9.0
+248,Cao Renxian,12.5,China,Technology,Asia,2.0,2.0,1.0
+249,Stan Druckenmiller,12.5,United States,Finance,Northern America,1.0,1.0,2.0
+250,Friedhelm Loh,12.5,Germany,Diversified,Europe,3.0,4.0,4.0
+251,Charoen Sirivadhanabhakdi,12.4,Thailand,Food & Beverage,Asia,2.0,27.0,10.0
+252,Rafael Del Pino,12.4,Spain,Industrial,Europe,3.0,21.0,3.0
+253,Michael Platt,12.3,United Kingdom,Finance,Europe,3.0,7.0,2.0
+254,David Cheriton,12.3,Canada,Technology,Northern America,1.0,9.0,1.0
+255,Xu Yangtian,12.2,China,Retail,Asia,2.0,2.0,7.0
+256,Pavel Durov,12.2,Russian Federation,Technology,Europe,3.0,5.0,1.0
+257,Theo Albrecht Jr,12.1,Germany,Retail,Europe,3.0,4.0,7.0
+258,Josh Harris,12.1,United States,Finance,Northern America,1.0,1.0,2.0
+259,Wang Ning,12.1,China,Consumer,Asia,2.0,2.0,5.0
+260,Marcel Telles,12.0,Brazil,Food & Beverage,Southern America,4.0,10.0,10.0
+261,Willi Liebherr,12.0,Germany,Industrial,Europe,3.0,4.0,3.0
+262,Isolde Liebherr,12.0,Germany,Industrial,Europe,3.0,4.0,3.0
+263,Wang Wei,11.9,China,Services,Asia,2.0,2.0,13.0
+264,Michael Kadoorie,11.9,Hong Kong,Energy,Asia,2.0,6.0,8.0
+265,Ken Fisher,11.8,United States,Finance,Northern America,1.0,1.0,2.0
+266,John Albert Sobrato,11.8,United States,Real Estate,Northern America,1.0,1.0,9.0
+267,Dan Friedkin,11.7,United States,Retail,Northern America,1.0,1.0,7.0
+268,Tahir,11.7,Indonesia,Health Care,Asia,2.0,13.0,6.0
+269,Thomas Schmidheiny,11.7,Switzerland,Industrial,Europe,3.0,11.0,3.0
+270,Karel Komarek,11.6,Czech Republic,Diversified,Europe,3.0,25.0,4.0
+271,Michael Rubin,11.6,United States,Retail,Northern America,1.0,1.0,7.0
+272,Shari Arison,11.6,Israel,Diversified,Middle East,5.0,17.0,4.0
+273,Alex Gerko,11.5,United Kingdom,Finance,Europe,3.0,7.0,2.0
+274,Michael,11.5,Israel,Industrial,Middle East,5.0,17.0,3.0
+275,Orlando Bravo,11.5,United States,Finance,Northern America,1.0,1.0,2.0
+276,Daniel Kretinsky,11.4,Czech Republic,Energy,Europe,3.0,25.0,8.0
+277,Laurene Powell Jobs,11.4,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+278,Lin Bin,11.4,United States,Technology,Northern America,1.0,1.0,1.0
+279,Mark Stevens,11.3,United States,Technology,Northern America,1.0,1.0,1.0
+280,Anthony Pratt,11.3,Australia,Industrial,Oceania,6.0,14.0,3.0
+281,Terry Gou,11.3,Taiwan,Industrial,Asia,2.0,12.0,3.0
+282,Cen Junda,11.2,China,Health Care,Asia,2.0,2.0,6.0
+283,Li Xiting,11.1,Singapore,Health Care,Asia,2.0,28.0,6.0
+284,Vikram Lal,11.1,India,Industrial,Asia,2.0,3.0,3.0
+285,Zhou Chaonan,11.1,China,Technology,Asia,2.0,2.0,1.0
+286,Todd Graves,11.1,United States,Consumer,Northern America,1.0,1.0,5.0
+287,Chris Hohn,11.0,United Kingdom,Finance,Europe,3.0,7.0,2.0
+288,Yeung Kin-Man,11.0,Hong Kong,Technology,Asia,2.0,6.0,1.0
+289,Sulaiman Al Habib,11.0,Saudi Arabia,Health Care,Middle East,5.0,29.0,6.0
+290,Steven Rales,11.0,United States,Industrial,Northern America,1.0,1.0,3.0
+291,George Kaiser,11.0,United States,Energy,Northern America,1.0,1.0,8.0
+292,David Thomson,11.0,Canada,Media & Telecom,Northern America,1.0,9.0,11.0
+293,Frank Lowy,10.9,Australia,Real Estate,Oceania,6.0,14.0,9.0
+294,Woody Johnson,10.9,United States,Diversified,Northern America,1.0,1.0,4.0
+295,Steven Spielberg,10.9,United States,Entertainment,Northern America,1.0,1.0,14.0
+296,Robert Smith,10.9,United States,Finance,Northern America,1.0,1.0,2.0
+297,Li Ping,10.8,China,Industrial,Asia,2.0,2.0,3.0
+298,Shahid Khan,10.8,United States,Consumer,Northern America,1.0,1.0,5.0
+299,Pang Kang,10.8,China,Food & Beverage,Asia,2.0,2.0,10.0
+300,Dustin Moskovitz,10.8,United States,Technology,Northern America,1.0,1.0,1.0
+301,Tom Morris,10.8,United Kingdom,Retail,Europe,3.0,7.0,7.0
+302,Jorge Moll & family,10.7,Brazil,Health Care,Southern America,4.0,10.0,6.0
+303,Geoffrey Kwok,10.7,Hong Kong,Real Estate,Asia,2.0,6.0,9.0
+304,Mark Walter,10.7,United States,Finance,Northern America,1.0,1.0,2.0
+305,Viktor Vekselberg,10.7,Russian Federation,Industrial,Europe,3.0,5.0,3.0
+306,Peter Mallouk,10.6,United States,Finance,Northern America,1.0,1.0,2.0
+307,Luis Sarmiento,10.6,Colombia,Finance,Southern America,4.0,23.0,2.0
+308,Ray Lee Hunt,10.6,United States,Energy,Northern America,1.0,1.0,8.0
+309,Naguib Sawiris,10.6,Egypt,Media & Telecom,Africa,7.0,32.0,11.0
+310,Qi Shi,10.5,China,Finance,Asia,2.0,2.0,2.0
+311,Tobi Lutke,10.5,Canada,Technology,Northern America,1.0,9.0,1.0
+312,Kenneth Dart,10.5,Cayman Islands,Finance,Southern America,4.0,44.0,2.0
+313,Li Shuirong,10.5,China,Energy,Asia,2.0,2.0,8.0
+314,Yan Junjie,10.5,China,Technology,Asia,2.0,2.0,1.0
+315,Mikhail Prokhorov,10.5,Russian Federation,Diversified,Europe,3.0,5.0,4.0
+316,Mikhail Fridman,10.4,Russian Federation,Diversified,Europe,3.0,5.0,4.0
+317,John Malone,10.4,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+318,Tony Ressler,10.4,United States,Finance,Northern America,1.0,1.0,2.0
+319,Suleiman Kerimov,10.3,Russian Federation,Commodities,Europe,3.0,5.0,12.0
+320,Kjeld Kirk Kristiansen,10.3,Denmark,Consumer,Europe,3.0,20.0,5.0
+321,Zhang Hejun,10.3,China,Industrial,Asia,2.0,2.0,3.0
+322,Victor Rashnikov,10.2,Russian Federation,Industrial,Europe,3.0,5.0,3.0
+323,Gwendolyn Sontheim Meyer,10.2,United States,Commodities,Northern America,1.0,1.0,12.0
+324,Pauline Keinath,10.2,United States,Commodities,Northern America,1.0,1.0,12.0
+325,Dennis Washington,10.2,United States,Industrial,Northern America,1.0,1.0,3.0
+326,Les Wexner,10.1,United States,Retail,Northern America,1.0,1.0,7.0
+327,Juan Carlos Escotet,10.1,Venezuela,Finance,Southern America,4.0,45.0,2.0
+328,Agnete Kirk Thinggaard,10.1,Denmark,Consumer,Europe,3.0,20.0,5.0
+329,Thomas Kirk Kristiansen,10.1,Denmark,Consumer,Europe,3.0,20.0,5.0
+330,K P Singh,10.1,India,Real Estate,Asia,2.0,3.0,9.0
+331,Johnny Morris,10.0,United States,Retail,Northern America,1.0,1.0,7.0
+332,Graeme Hart,9.98,New Zealand,Finance,Oceania,6.0,46.0,2.0
+333,Arthur Blank,9.97,United States,Entertainment,Northern America,1.0,1.0,14.0
+334,Wei Jianjun,9.97,China,Consumer,Asia,2.0,2.0,5.0
+335,Ernest Garcia III,9.92,United States,Consumer,Northern America,1.0,1.0,5.0
+336,Jimmy Haslam,9.92,United States,Consumer,Northern America,1.0,1.0,5.0
+337,Ravi Jaipuria,9.88,India,Consumer,Asia,2.0,3.0,5.0
+338,Riley Bechtel,9.88,United States,Services,Northern America,1.0,1.0,13.0
+339,Dave Duffield,9.85,United States,Technology,Northern America,1.0,1.0,1.0
+340,Dmitry Rybolovlev,9.83,Russian Federation,Diversified,Europe,3.0,5.0,4.0
+341,Eric Smidt,9.82,United States,Retail,Northern America,1.0,1.0,7.0
+342,Magdalena Martullo,9.82,Switzerland,Industrial,Europe,3.0,11.0,3.0
+343,Martin Lorentzon,9.8,Sweden,Technology,Europe,3.0,16.0,1.0
+344,Pedro Moreira Salles,9.79,Brazil,Finance,Southern America,4.0,10.0,2.0
+345,Lynn Schusterman,9.78,United States,Energy,Northern America,1.0,1.0,8.0
+346,Justin Sun,9.77,Hong Kong,Finance,Asia,2.0,6.0,2.0
+347,Jim Davis,9.73,United States,Services,Northern America,1.0,1.0,13.0
+348,Sofie Kirk Kristiansen,9.72,Denmark,Consumer,Europe,3.0,20.0,5.0
+349,George Soros,9.7,United States,Finance,Northern America,1.0,1.0,2.0
+350,Abdullah Al Ghurair,9.69,United Arab Emirates,Diversified,Middle East,5.0,33.0,4.0
+351,Joseph Tsai,9.69,Canada,Technology,Northern America,1.0,9.0,1.0
+352,Jim Goodnight,9.69,United States,Technology,Northern America,1.0,1.0,1.0
+353,Taylor Thomson,9.66,Canada,Media & Telecom,Northern America,1.0,9.0,11.0
+354,Peter Thomson,9.66,Canada,Media & Telecom,Northern America,1.0,9.0,11.0
+355,Gayle Benson,9.65,United States,Entertainment,Northern America,1.0,1.0,14.0
+356,Mike Dorrell,9.65,Australia,Finance,Oceania,6.0,14.0,2.0
+357,Lu Weiding,9.59,China,Diversified,Asia,2.0,2.0,4.0
+358,Marc Rowan,9.54,United States,Finance,Northern America,1.0,1.0,2.0
+359,Carl Cook,9.54,United States,Health Care,Northern America,1.0,1.0,6.0
+360,Trevor Rees-Jones,9.52,United States,Energy,Northern America,1.0,1.0,8.0
+361,Ronda Stryker,9.46,United States,Health Care,Northern America,1.0,1.0,6.0
+362,Goh Hup Jin,9.45,Singapore,Industrial,Asia,2.0,28.0,3.0
+363,Fernando Moreira Salles,9.41,Brazil,Finance,Southern America,4.0,10.0,2.0
+364,Jude Reyes,9.4,United States,Consumer,Northern America,1.0,1.0,5.0
+365,Chris Reyes,9.4,United States,Consumer,Northern America,1.0,1.0,5.0
+366,Andre Hoffmann,9.38,Switzerland,Health Care,Europe,3.0,11.0,6.0
+367,You Xiaoping,9.38,China,Industrial,Asia,2.0,2.0,3.0
+368,Patrick Collison,9.37,Ireland,Technology,Europe,3.0,36.0,1.0
+369,John Collison,9.37,Ireland,Technology,Europe,3.0,36.0,1.0
+370,Rahel Blocher,9.32,Switzerland,Industrial,Europe,3.0,11.0,3.0
+371,Tammy Gustavson,9.31,United States,Services,Northern America,1.0,1.0,13.0
+372,Maria Angelicoussis,9.3,Greece,Industrial,Europe,3.0,34.0,3.0
+373,Michael Kim,9.26,United States,Finance,Northern America,1.0,1.0,2.0
+374,Lin Muqin,9.24,China,Consumer,Asia,2.0,2.0,5.0
+375,Andrey Guryev,9.2,Russian Federation,Industrial,Europe,3.0,5.0,3.0
+376,Wu Jianshu,9.2,Hong Kong,Industrial,Asia,2.0,6.0,3.0
+377,Laurent Dassault,9.2,France,Diversified,Europe,3.0,8.0,4.0
+378,Marie-Helene Habert-Dassault,9.2,France,Diversified,Europe,3.0,8.0,4.0
+379,Thierry Dassault,9.2,France,Diversified,Europe,3.0,8.0,4.0
+380,Nusli Wadia,9.17,India,Diversified,Asia,2.0,3.0,4.0
+381,Mark Cuban,9.17,United States,Technology,Northern America,1.0,1.0,1.0
+382,Marc Benioff,9.16,United States,Technology,Northern America,1.0,1.0,1.0
+383,Vincent Bollore,9.16,France,Diversified,Europe,3.0,8.0,4.0
+384,Otto Toto Sugiri,9.13,Indonesia,Technology,Asia,2.0,13.0,1.0
+385,Henry Laufer,9.13,United States,Finance,Northern America,1.0,1.0,2.0
+386,Yi Zheng,9.11,China,Finance,Asia,2.0,2.0,2.0
+387,Carl Bennet,9.11,Sweden,Finance,Europe,3.0,16.0,2.0
+388,David Geffen,9.1,United States,Entertainment,Northern America,1.0,1.0,14.0
+389,Murali Divi,9.09,India,Health Care,Asia,2.0,3.0,6.0
+390,Brian Chesky,9.08,United States,Services,Northern America,1.0,1.0,13.0
+391,Chen Tao,9.07,China,Technology,Asia,2.0,2.0,1.0
+392,Mohammed Al Amoudi,9.04,Saudi Arabia,Energy,Middle East,5.0,29.0,8.0
+393,Francesco Gaetano Caltagirone,9.01,Italy,Diversified,Europe,3.0,15.0,4.0
+394,Min Kao,8.97,United States,Technology,Northern America,1.0,1.0,1.0
+395,Wang Laisheng,8.92,China,Industrial,Asia,2.0,2.0,3.0
+396,Kelcy Warren,8.9,United States,Energy,Northern America,1.0,1.0,8.0
+397,Vladimir Kim,8.87,Kazakhstan,Commodities,Asia,2.0,47.0,12.0
+398,Nassef Sawiris,8.87,Egypt,Industrial,Africa,7.0,32.0,3.0
+399,Robin Li,8.86,China,Technology,Asia,2.0,2.0,1.0
+400,Ma Jianrong,8.77,China,Consumer,Asia,2.0,2.0,5.0
+401,Georg Schaeffler,8.77,Germany,Industrial,Europe,3.0,4.0,3.0
+402,Maria Asuncion Aramburuzabala,8.75,Mexico,Diversified,Southern America,4.0,22.0,4.0
+403,Clive Calder,8.75,United Kingdom,Entertainment,Europe,3.0,7.0,14.0
+404,Samuel Yin,8.7,Taiwan,Diversified,Asia,2.0,12.0,4.0
+405,Carlos Sicupira,8.66,Brazil,Food & Beverage,Southern America,4.0,10.0,10.0
+406,Jay Chaudhry,8.62,United States,Technology,Northern America,1.0,1.0,1.0
+407,Hansjoerg Wyss,8.57,Switzerland,Health Care,Europe,3.0,11.0,6.0
+408,Nathan Blecharczyk,8.55,United States,Services,Northern America,1.0,1.0,13.0
+409,Joe Ricketts,8.52,United States,Finance,Northern America,1.0,1.0,2.0
+410,Vera Michalski-Hoffmann,8.48,Switzerland,Health Care,Europe,3.0,11.0,6.0
+411,Maja Hoffmann,8.48,Switzerland,Health Care,Europe,3.0,11.0,6.0
+412,Joe Lewis,8.47,United Kingdom,Diversified,Europe,3.0,7.0,4.0
+413,Xu Gaoming,8.44,China,Retail,Asia,2.0,2.0,7.0
+414,Todd Boehly,8.41,United States,Diversified,Northern America,1.0,1.0,4.0
+415,Lee Boo-jin,8.37,"Korea, Republic of",Technology,Asia,2.0,19.0,1.0
+416,Leonid Fedun,8.35,Russian Federation,Energy,Europe,3.0,5.0,8.0
+417,Marcos Galperin,8.28,Argentina,Technology,Southern America,4.0,48.0,1.0
+418,Massimiliana Landini Aleotti,8.24,Italy,Health Care,Europe,3.0,15.0,6.0
+419,Jeff Skoll,8.23,United States,Technology,Northern America,1.0,1.0,1.0
+420,Liu Yonghao,8.21,China,Diversified,Asia,2.0,2.0,4.0
+421,Leonard Stern,8.18,United States,Real Estate,Northern America,1.0,1.0,9.0
+422,David Filo,8.18,United States,Technology,Northern America,1.0,1.0,1.0
+423,Pat Stryker,8.17,United States,Health Care,Northern America,1.0,1.0,6.0
+424,Mat Ishbia,8.14,United States,Finance,Northern America,1.0,1.0,2.0
+425,Joe Gebbia,8.14,United States,Services,Northern America,1.0,1.0,13.0
+426,Bill Ackman,8.13,United States,Finance,Northern America,1.0,1.0,2.0
+427,Iskandar Makhmudov,8.1,Russian Federation,Commodities,Europe,3.0,5.0,12.0
+428,Juan Roig,8.09,Spain,Food & Beverage,Europe,3.0,21.0,10.0
+429,Hamdi Ulukaya,8.09,Turkey,Food & Beverage,Middle East,5.0,49.0,10.0
+430,Dhanin Chearavanont,8.09,Thailand,Retail,Asia,2.0,27.0,7.0
+431,Samir Mehta,8.08,India,Health Care,Asia,2.0,3.0,6.0
+432,Yasumitsu Shigeta,8.07,Japan,Media & Telecom,Asia,2.0,24.0,11.0
+433,Margot Perot & family,8.05,United States,Diversified,Northern America,1.0,1.0,4.0
+434,Wang Yusuo,8.0,China,Energy,Asia,2.0,2.0,8.0
+435,Morris Chang,8.0,Taiwan,Technology,Asia,2.0,12.0,1.0
+436,Dan Cathy,7.99,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+437,Bubba Cathy,7.99,United States,Food & Beverage,Northern America,1.0,1.0,10.0
+438,Hong Ra-hee,7.99,"Korea, Republic of",Diversified,Asia,2.0,19.0,4.0
+439,Li Ge,7.98,United States,Health Care,Northern America,1.0,1.0,6.0
+440,Edward Roski,7.98,United States,Real Estate,Northern America,1.0,1.0,9.0
+441,Jeffrey Lurie,7.97,United States,Entertainment,Northern America,1.0,1.0,14.0
+442,Roman Abramovich,7.96,Russian Federation,Diversified,Europe,3.0,5.0,4.0
+443,Denise York,7.93,United States,Entertainment,Northern America,1.0,1.0,14.0
+444,Wang Laichun,7.93,China,Industrial,Asia,2.0,2.0,3.0
+445,Chung Mong-Koo,7.91,"Korea, Republic of",Industrial,Asia,2.0,19.0,3.0
+446,James Kim,7.88,United States,Technology,Northern America,1.0,1.0,1.0
+447,Zeng Fangqin,7.88,China,Industrial,Asia,2.0,2.0,3.0
+448,Edward Cadogan,7.87,United Kingdom,Real Estate,Europe,3.0,7.0,9.0
+449,Tony James,7.86,United States,Finance,Northern America,1.0,1.0,2.0
+450,Patrick Drahi,7.85,France,Media & Telecom,Europe,3.0,8.0,11.0
+451,Richard Tsai,7.85,Taiwan,Finance,Asia,2.0,12.0,2.0
+452,Cho Jung-Ho,7.83,"Korea, Republic of",Finance,Asia,2.0,19.0,2.0
+453,Brian Armstrong,7.83,United States,Technology,Northern America,1.0,1.0,1.0
+454,Gary Rollins,7.83,United States,Industrial,Northern America,1.0,1.0,3.0
+455,Ding Shizhong,7.8,China,Consumer,Asia,2.0,2.0,5.0
+456,Ivar Tollefsen,7.79,Norway,Real Estate,Europe,3.0,18.0,9.0
+457,Frederik Paulsen,7.74,Sweden,Health Care,Europe,3.0,16.0,6.0
+458,Sudhir Mehta,7.7,India,Health Care,Asia,2.0,3.0,6.0
+459,Ronald McAulay,7.63,Hong Kong,Energy,Asia,2.0,6.0,8.0
+460,Piero Ferrari,7.63,Italy,Consumer,Europe,3.0,15.0,5.0
+461,Daniel Tsai,7.62,Taiwan,Finance,Asia,2.0,12.0,2.0
+462,Fan Hongwei,7.62,China,Energy,Asia,2.0,2.0,8.0
+463,Gordon Getty,7.6,United States,Consumer,Northern America,1.0,1.0,5.0
+464,Linda Campbell,7.59,Canada,Media & Telecom,Northern America,1.0,9.0,11.0
+465,Gaye Farncombe,7.59,Canada,Media & Telecom,Northern America,1.0,9.0,11.0
+466,Stefano Pessina,7.58,Monaco,Retail,Europe,3.0,31.0,7.0
+467,Pankaj Patel,7.55,India,Health Care,Asia,2.0,3.0,6.0
+468,Odd Reitan,7.53,Norway,Food & Beverage,Europe,3.0,18.0,10.0
+469,Alain Bouchard,7.53,Canada,Retail,Northern America,1.0,9.0,7.0
+470,Zhang Congyuan,7.49,Taiwan,Industrial,Asia,2.0,12.0,3.0
+471,Rahul Bhatia,7.46,India,Consumer,Asia,2.0,3.0,5.0
+472,Ding Shijia,7.44,China,Consumer,Asia,2.0,2.0,5.0
+473,Jim Davis,7.43,United States,Consumer,Northern America,1.0,1.0,5.0
+474,Tatyana Kim,7.42,Russian Federation,Technology,Europe,3.0,5.0,1.0
+475,Dmitry Bukhman,7.37,Israel,Technology,Middle East,5.0,17.0,1.0
+476,Jon Gray,7.36,United States,Finance,Northern America,1.0,1.0,2.0
+477,Kjell Inge Rokke,7.35,Norway,Industrial,Europe,3.0,18.0,3.0
+478,Fredrik Lundberg,7.35,Sweden,Real Estate,Europe,3.0,16.0,9.0
+479,Igor Bukhman,7.33,Israel,Technology,Middle East,5.0,17.0,1.0
+480,Kerry Stokes,7.32,Australia,Industrial,Oceania,6.0,14.0,3.0
+481,John Brown,7.31,United States,Technology,Northern America,1.0,1.0,1.0
+482,Xu Hang,7.3,Hong Kong,Health Care,Asia,2.0,6.0,6.0
+483,Sri Prakash Lohia,7.29,Indonesia,Industrial,Asia,2.0,13.0,3.0
+484,Patrick G Ryan & family,7.27,United States,Services,Northern America,1.0,1.0,13.0
+486,Liz Mohn,7.24,Germany,Media & Telecom,Europe,3.0,4.0,11.0
+487,Rinat Akhmetov,7.22,Ukraine,Industrial,Europe,3.0,50.0,3.0
+488,Mitchell Rales,7.16,United States,Industrial,Northern America,1.0,1.0,3.0
+489,Blair Parry-Okeden,7.16,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+490,Jim Kennedy,7.16,United States,Media & Telecom,Northern America,1.0,1.0,11.0
+491,Bruce Kovner,7.15,United States,Finance,Northern America,1.0,1.0,2.0
+492,Leaf Hua Li,7.14,China,Technology,Asia,2.0,2.0,1.0
+493,Laurence Graff,7.14,United Kingdom,Consumer,Europe,3.0,7.0,5.0
+494,Cai Huabo,7.13,China,Technology,Asia,2.0,2.0,1.0
+495,Mark Scheinberg,7.11,Isle of Man,Entertainment,Europe,3.0,51.0,14.0
+496,Andreas Halvorsen,7.1,Norway,Finance,Europe,3.0,18.0,2.0
+497,Tsai Hung-Tu,7.1,Taiwan,Finance,Asia,2.0,12.0,2.0
+498,Joao Moreira Salles,7.08,Brazil,Finance,Southern America,4.0,10.0,2.0
+499,Walther Moreira Salles Jr,7.08,Brazil,Finance,Southern America,4.0,10.0,2.0
+500,Alain Merieux,7.07,France,Health Care,Europe,3.0,8.0,6.0
