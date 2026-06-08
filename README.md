@@ -38,23 +38,23 @@ Ideale per pipeline di analisi automatizzate.
 
 *** STRUTTURA DEL REPOSITORY ***
 Code
-
-AC_Python_Demo/
-│
-├── classification/           # Wrapper UniversalClassifier
-├── clustering/               # Wrapper ClusterMaker
-├── tabular/                  # Report generator
-│
-├── examples/
-│   ├── demo_classification.ipynb
-│   ├── demo_clustering.ipynb
-│   └── pdf/                  # PDF generati dai notebook
-│
-├── data/                     # Dataset di esempio
-│
-├── img/                      # Immagini per README e report
-│
-└── README.md
+    
+    AC_Python_Demo/
+    │
+    ├── classification/           # Wrapper UniversalClassifier
+    ├── clustering/               # Wrapper ClusterMaker
+    ├── tabular/                  # Report generator
+    │
+    ├── examples/
+    │   ├── demo_classification.ipynb
+    │   ├── demo_clustering.ipynb
+    │   └── pdf/                  # PDF generati dai notebook
+    │
+    ├── data/                     # Dataset di esempio
+    │
+    ├── img/                      # Immagini per README e report
+    │
+    └── README.md
 
 
 *** ESEMPI RAPIDI ***
