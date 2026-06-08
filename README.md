@@ -6,7 +6,7 @@ Include esempi completi, report generati automaticamente e notebook dimostrativi
 
 *** CARATTERISTICHE PRINCIPALI ***
 
->> UniversalClassifier — wrapper unificato per classificazione
+> UniversalClassifier — wrapper unificato per classificazione
 Supporta Decision Tree, Random Forest, SVM, Dummy, con:
 
     - selezione automatica del backend (CPU/GPU)
@@ -14,7 +14,7 @@ Supporta Decision Tree, Random Forest, SVM, Dummy, con:
     - metriche, confusion matrix, ROC, performance curves
     - esportazione automatica dei risultati in PDF
 
->> ClusterMaker — wrapper per clustering
+> ClusterMaker — wrapper per clustering
 Supporta KMeans, DBSCAN, Agglomerative, con:
 
     - SSE curve
@@ -22,10 +22,10 @@ Supporta KMeans, DBSCAN, Agglomerative, con:
     - visualizzazioni 2D con centriide
     - pipeline di scaling e riduzione dimensionale
 
->> Supporto GPU trasparente  
+> Supporto GPU trasparente  
 Se una GPU NVIDIA è disponibile, i wrapper passano automaticamente a cuML.
 
->> Report — generatore di report PDF da DataFrame
+> Report — generatore di report PDF da DataFrame
 Ideale per pipeline di analisi automatizzate.
 
 
@@ -59,7 +59,7 @@ AC_Python_Demo/
 
 *** ESEMPI RAPIDI ***
 
->> Classificazione
+> Classificazione
     
     from ac.ml.classification import UniversalClassifier
     import pandas as pd
@@ -80,7 +80,7 @@ AC_Python_Demo/
     print("Prediction:", uc.predict([80, 1.0, 3.0]))
     uc.draw("confusion", set="test", show=True)
 
->> Clustering
+> Clustering
 
     from ac.ml.clustering import ClusterMaker
     import pandas as pd
@@ -99,7 +99,7 @@ AC_Python_Demo/
     cm.draw("clustering", x="admiration", y="gratitude", centroids=True, show=True)
 
 
->> Report automatici
+> Report automatici
 Il modulo Report consente di generare PDF direttamente da DataFrame:
     
     from ac.tabular import Report
