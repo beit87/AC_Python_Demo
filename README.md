@@ -19,7 +19,7 @@ Supporta KMeans, DBSCAN, Agglomerative, con:
 
     - SSE curve
     - scelta automatica degli iperparametri
-    - visualizzazioni 2D con centriide
+    - visualizzazioni 2D con centroidi
     - pipeline di scaling e riduzione dimensionale
 
 Supporto GPU trasparente  
