@@ -51,8 +51,6 @@ Ideale per pipeline di analisi automatizzate.
     │
     ├── data/                     # Dataset di esempio
     │
-    ├── img/                      # Immagini per README e report
-    │
     └── README.md
 
 
