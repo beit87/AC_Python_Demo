@@ -40,10 +40,6 @@ Ideale per pipeline di analisi automatizzate.
     
     AC_Python_Demo/
     │
-    ├── classification/           # Wrapper UniversalClassifier
-    ├── clustering/               # Wrapper ClusterMaker
-    ├── tabular/                  # Report generator
-    │
     ├── examples/
     │   ├── demo_classification.ipynb
     │   ├── demo_clustering.ipynb
